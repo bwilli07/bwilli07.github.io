@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NAME, Digital Publishing Expert, launches site"
+title: "BWilliams, Digital Publishing Expert, launches site"
 date: 2026-07-15
 ---
 
